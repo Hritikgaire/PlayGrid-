@@ -14,7 +14,7 @@ PlayGrid is a C-based mini game suite featuring classic games with a fun twist. 
  
 1.Written entirely in C using procedural programming
 
-2.Minimal AI usage (≈1%) for Tic-Tac-Toe
+2.Minimal AI usage (≈1%) 
 
 3.Simple, easy-to-understand code, perfect for learning and experimentation
 
